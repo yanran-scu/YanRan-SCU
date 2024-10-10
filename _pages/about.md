@@ -154,16 +154,22 @@ T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter 19, 1312 (2023).
 </div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- **所参加学术会议：**
+  
+1.   中国化学会第十四届全国量子化学会，上海，2021 年 10 月
+   
+2.   中国化学会第三十三届学术年会，青岛，2023 年 6 月
+   
+***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, Conformation and dynamics of an active filament in crowded media. (优秀墙报奖)
 
 
 
+# 💬 在校经历
+1.	*2023. 09*--至今，任四川大学化学学院2022级研究生一班班长兼副团支书
+   
+2.	*2020. 09--2021.06*，任四川大学化学学院物理化学课程助教
+   
+3.	*2017. 06--2019. 05*，任四川大学化学学院学生会学习部副部长
 
 
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 专业技术
