@@ -90,6 +90,14 @@ Attractive crowding effect on passive and active polymer looping kinetics.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ Translocation dynamics of an active filament through a long-length scale channel
+
+F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B 127, 8603 (2023).
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
