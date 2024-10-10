@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 教育经历
-- *2020.09 - 至今*,  博士（保研、硕博连读），四川大学/物理化学/导师：赵南蓉教授
+- *2020.09 - 至今*,  博士（保研、硕博连读），四川大学/计算机数值模拟/导师：赵南蓉教授 （专业：物理化学）
 - *2016.09-2020.06*，	学士，四川大学/化学
 
 # 🔥 研究方向
@@ -41,20 +41,20 @@ redirect_from:
 
 - **负责内容：**
 
-1. 参与基金的撰写及申请：大量阅读国内外关于活性体系的文献，并梳理整合，敏锐发现其中不足，提出初步改进方法，与导师讨论，最终形成切实可行的研究方案。
+1. **参与基金的撰写及申请：** 大量阅读国内外关于活性体系的文献，并梳理整合，敏锐发现其中不足，提出初步改进方法，与导师讨论，最终形成切实可行的研究方案。
 
-2. 搭建模拟程序：基于 NVIDIA CUDA的 C/C++，运用 GPU 高效数据并行能力，自主开发面向多副本统计的粗粒化分子动力学模拟程序，对大量粒子系统进行位置速度演化，实现相对于传统模拟的 5-10 倍加速。根据课题需要，建立各类复杂模型，如高分子溶液、受限环境、多孔介质、流体环境等等。联动Mathematica软件与C++程序对所记录的粒子信息进行数据处理，分析其结构和动力学性质。同时将程序进行可视化处理（OpenGL）。
+2. **搭建模拟程序：** 基于 NVIDIA CUDA的 C/C++，运用 GPU 高效数据并行能力，自主开发面向多副本统计的粗粒化分子动力学模拟程序，对大量粒子系统进行位置速度演化，实现相对于传统模拟的 5-10 倍加速。根据课题需要，建立各类复杂模型，如高分子溶液、受限环境、多孔介质、流体环境等等。联动Mathematica软件与C++程序对所记录的粒子信息进行数据处理，分析其结构和动力学性质。同时将程序进行可视化处理（OpenGL）。
 
-3. 结果分析：(1) 探索亲疏水性、活性、手性等对于生物体系相分离的调控，建立在此环境中大分子异常扩散动力学的理论框架；发展活性相分离环境中高分子链环化速率计算的有效方法。 (2) 探索生物体系中活性、拥挤等不同条件对于生物大分子穿孔、环化、扩散等动力学的影响，发现活性粒子在高分子溶液中的反常扩散动力学规律，分析生物大分子的构象变化。
+3. **结果分析：**(1) 探索亲疏水性、活性、手性等对于生物体系相分离的调控，建立在此环境中大分子异常扩散动力学的理论框架；发展活性相分离环境中高分子链环化速率计算的有效方法。 (2) 探索生物体系中活性、拥挤等不同条件对于生物大分子穿孔、环化、扩散等动力学的影响，发现活性粒子在高分子溶液中的反常扩散动力学规律，分析生物大分子的构象变化。
 
 # 💻 专业技能
 - **系统性知识储备：**
   
 （1）建立一整套完整的从理论到程序架构再到数据处理的模拟体系，模拟聚合物、金属、纳米颗粒等材料的运动，并设置不同的力场及势能，来分析其构象和动力学行为，进而理解其物理化学特性。
 
-（2）掌握流体力学的相关计算方法：流体被抽象为远小于真实分子个数的一定数量的代表粒子，其碰撞仅在固定的离散时间间隔上进行求算。但流体粒子自身的空间坐标和粒子速度都是连续变量，因此，该算法表现出无条件的数值稳定性，并满足 Boltzmann H 定理（多粒子碰撞动力学）。
+（2）**掌握流体力学的相关计算方法：** 流体被抽象为远小于真实分子个数的一定数量的代表粒子，其碰撞仅在固定的离散时间间隔上进行求算。但流体粒子自身的空间坐标和粒子速度都是连续变量，因此，该算法表现出无条件的数值稳定性，并满足 Boltzmann H 定理（多粒子碰撞动力学）。
 
-（3）掌握技术：熟练掌握C++开发技术及其语言特性在模拟研究中的代码工程化与落地应用；熟悉Python基础语法；掌握强大数学工具软件Mathematica及其与C++等语言的自动化脚本整合；应用Mathematica进行数值运算；掌握CUDA C++ 大规模高性能并行编程以及基于OpenGL的可视化图形应用的底层开发；熟悉Linux操作系统。
+（3）**掌握技术：** 熟练掌握C++开发技术及其语言特性在模拟研究中的代码工程化与落地应用；熟悉Python基础语法；掌握强大数学工具软件Mathematica及其与C++等语言的自动化脚本整合；应用Mathematica进行数值运算；掌握CUDA C++ 大规模高性能并行编程以及基于OpenGL的可视化图形应用的底层开发；熟悉Linux操作系统。
 - **系统性框架整合能力：**
   
 独立完成对课题组多个研究方向相关的程序框架整合，可在数日内实现对新研究方向的快速定制化开发。
@@ -86,7 +86,7 @@ Attractive crowding effect on passive and active polymer looping kinetics.
 
  Conformation and dynamics of an active filament in crowded media
  
-***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, J. Chem. Phys. 158, 114905 (2023).
+***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, J. Chem. Phys. (Sci)  158, 114905 (2023).
 </div>
 </div>
 
@@ -95,7 +95,7 @@ Attractive crowding effect on passive and active polymer looping kinetics.
 
  Translocation dynamics of an active filament through a long-length scale channel
 
-F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B 127, 8603 (2023).
+F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8603 (2023).
 </div>
 </div>
 
@@ -104,7 +104,7 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B 127, 8603 (20
 
 Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system
 
-T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. 156, 204901 (2022).
+T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 </div>
 </div>
 
@@ -113,7 +113,7 @@ T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. 156, 204901 (2022).
 
 Passive and active tracer dynamics in polymer solutions with isotropic-to-nematic phase transition
 
-Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. 24, 7415 (2022).
+Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. (Sci)  24, 7415 (2022).
 </div>
 </div>
 
@@ -122,7 +122,7 @@ Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. 24, 7415 (2022).
 
  Dynamics and glass transition temperature of polystyrene films supported on hydroxyl terminated substrates
  
-B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances 10, 045322 (2020).
+B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances (Sci)  10, 045322 (2020).
 </div>
 </div>
 
@@ -131,7 +131,7 @@ B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances 10, 045322 (2020).
 
 Unusual crowding-induced chain looping kinetics in hard-sphere fluids: a contrastive study with polymer solutions
 
-Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter 15, 4976 (2019).
+Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter (Sci)  15, 4976 (2019).
 </div>
 </div>
 
@@ -140,7 +140,7 @@ Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter 15, 4976 (2019).
 
 Forced and spontaneous translocation dynamics of a semiflexible active polymer in two dimensions
 
-F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter 20, 1120 (2024).
+F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (2024).
 </div>
 </div>
 
@@ -149,7 +149,7 @@ F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter 20, 1120 (2024).
 
 Collective behavior of chiral active particles with anisotropic interactions in a confined space
 
-T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter 19, 1312 (2023).
+T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  19, 1312 (2023).
 </div>
 </div>
 
