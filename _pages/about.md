@@ -152,7 +152,7 @@ Collective behavior of chiral active particles with anisotropic interactions in 
 T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter 19, 1312 (2023).
 </div>
 </div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 - **所参加学术会议：**
   
