@@ -56,6 +56,7 @@ redirect_from:
 
 （3）掌握技术：熟练掌握C++开发技术及其语言特性在模拟研究中的代码工程化与落地应用；熟悉Python基础语法；掌握强大数学工具软件Mathematica及其与C++等语言的自动化脚本整合；应用Mathematica进行数值运算；掌握CUDA C++ 大规模高性能并行编程以及基于OpenGL的可视化图形应用的底层开发；熟悉Linux操作系统。
 - **系统性框架整合能力：**
+  
 独立完成对课题组多个研究方向相关的程序框架整合，可在数日内实现对新研究方向的快速定制化开发。
 
 
@@ -73,9 +74,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Attractive crowding effect on passive and active polymer looping kinetics.]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+*R. Yan*, C. N. Zhao, and N. R. Zhao*, *J. Chem. Phys*. (Sci) 160, 134902 (2024).
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
