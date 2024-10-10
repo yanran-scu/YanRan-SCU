@@ -16,10 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+#研究方向
+介观系统的粗理化模拟及统计物理分析：
+随着纳米材料与生物科学技术的合成及表征手段不断发展，介观尺度（纳米-微米）的动力学因其兼具有宏观与微观的特性受到了越来越多的关注。介观体系具体的例子包括细胞，微米和纳米级别的材料，这类体系往往具有明确的可被宏观观测的物理平均量，而同时，其内部又具有不可忽略的涨落。我们课题组发展介观统计方法（郎之万方程），结合粗粒化模型及计算机模拟（自主开发），探索复杂体系非平衡统计力学行为的新现象和新规律。
+研究方法：
+采用粗粒化模型模拟生物体系中的大分子：对郎之万方程进行离散，把粒子的不断运动归结为其随时刻的位置速度的改变。在 Visual Studio 2012 编译平台，使用 C++ 编程语言，基于 Nvidia 的 CUDA 编写整个模拟程序，实现在GPU上以单指令多数据模式高效并行处理大量粒子的位置速度演化，探索大分子运动规律以及构象变化。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -43,8 +46,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* 获四川大学2025届优秀毕业研究生，校级； 
+- *2024.09* 获四川大学2023-2024学年优秀研究生干部，校级；
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, 
