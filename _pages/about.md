@@ -173,3 +173,4 @@ T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter 19, 1312 (2023).
 
 
 # 💻 专业技术
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">langevin</div><img src='images/1.png alt="sym" width="100%">
