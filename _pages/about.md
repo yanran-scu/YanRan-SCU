@@ -99,6 +99,59 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B 127, 8603 (20
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system
+
+T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. 156, 204901 (2022).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Passive and active tracer dynamics in polymer solutions with isotropic-to-nematic phase transition
+
+Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. 24, 7415 (2022).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ Dynamics and glass transition temperature of polystyrene films supported on hydroxyl terminated substrates
+ 
+B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances 10, 045322 (2020).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/6.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unusual crowding-induced chain looping kinetics in hard-sphere fluids: a contrastive study with polymer solutions
+
+Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter 15, 4976 (2019).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/10.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Forced and spontaneous translocation dynamics of a semiflexible active polymer in two dimensions
+
+F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter 20, 1120 (2024).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Collective behavior of chiral active particles with anisotropic interactions in a confined space
+
+T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter 19, 1312 (2023).
+</div>
+</div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
