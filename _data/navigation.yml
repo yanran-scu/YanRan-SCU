@@ -7,19 +7,19 @@ main:
     url: "#-研究方向"
 
   - title: "项目经历"
-    url: "/#-experition"
+    url: "#-项目经历"
 
   - title: "专业技能"
-    url: "/#-zhuanye"
+    url: "#-专业技能"
 
   - title: "所获荣誉"
-    url: "/#-honor"
+    url: "#-所获荣誉"
 
   - title: "论文发表"
-    url: "/#-article"
+    url: "#-论文发表"
 
   - title: "在校经历"
-    url: "/#-school"
+    url: "#-在校经历"
     
   - title: "专业技能"
-    url: "/#-ability"
+    url: "#-专业技能"
