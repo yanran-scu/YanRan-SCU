@@ -4,7 +4,7 @@ main:
     url: "/#education"
 
   - title: "研究方向"
-    url: "/#-direction"
+    url: "https://yanran-scu.github.io/YanRan-SCU/#-研究方向"
 
   - title: "项目经历"
     url: "/#-experition"
