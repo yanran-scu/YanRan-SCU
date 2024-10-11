@@ -174,50 +174,15 @@ T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  19, 1312 (
 
 # 💻 专业技术
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/zhuanye0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/zhuanye1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/12.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/13.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/14.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/15.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/16.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/17.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
