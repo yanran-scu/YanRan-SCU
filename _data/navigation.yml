@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "教育经历"
-    url: "/#education"
+    url: "#-教育经历"
 
   - title: "研究方向"
-    url: "https://yanran-scu.github.io/YanRan-SCU/#-研究方向"
+    url: "#-研究方向"
 
   - title: "项目经历"
     url: "/#-experition"
