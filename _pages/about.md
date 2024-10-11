@@ -104,7 +104,7 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8
 
 Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system
 
-[gif](https://github.com/yanran-scu/YanRan-SCU/blob/main/images/000.gif)
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 </div>
