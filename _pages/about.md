@@ -145,7 +145,14 @@ F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (
 </div>
 </div>
 
-<img src="images/000.gif" alt="Description of the GIF">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/000.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Collective behavior of chiral active particles with anisotropic interactions in a confined space
+
+T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  19, 1312 (2023).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
