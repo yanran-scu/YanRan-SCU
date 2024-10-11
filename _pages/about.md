@@ -180,7 +180,7 @@ T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  19, 1312 (
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/zhuanye1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/zy1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 </div>
