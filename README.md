@@ -72,4 +72,4 @@ Some examples:
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
 
 
-![image](https://github.com/yanran-scu/YanRan-SCU/blob/main/images/000.gif)
+
