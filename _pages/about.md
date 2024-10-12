@@ -52,9 +52,9 @@ redirect_from:
   
 （1）**分子动力学模拟：** 建立一整套完整的从理论到程序架构再到数据处理的模拟体系，模拟聚合物、金属、纳米颗粒等材料的运动，并设置不同的力场及势能，来分析其构象和动力学行为，进而理解其物理化学特性。
 
-（2）**掌握流体力学的相关计算方法：** 流体被抽象为远小于真实分子个数的一定数量的代表粒子，其碰撞仅在固定的离散时间间隔上进行求算。但流体粒子自身的空间坐标和粒子速度都是连续变量，因此，该算法表现出无条件的数值稳定性，并满足 Boltzmann H 定理（多粒子碰撞动力学）。
+（2）**流体力学的相关计算方法：** 流体被抽象为远小于真实分子个数的一定数量的代表粒子，其碰撞仅在固定的离散时间间隔上进行求算。但流体粒子自身的空间坐标和粒子速度都是连续变量，因此，该算法表现出无条件的数值稳定性，并满足 Boltzmann H 定理（多粒子碰撞动力学）。
 
-（3）**掌握技术：** 熟练掌握C++开发技术及其语言特性在模拟研究中的代码工程化与落地应用；熟悉Python基础语法；掌握强大数学工具软件Mathematica及其与C++等语言的自动化脚本整合；应用Mathematica进行数值运算；掌握CUDA C++ 大规模高性能并行编程以及基于OpenGL的可视化图形应用的底层开发；熟悉Linux操作系统。
+（3）**计算机技术：** 熟练掌握C++开发技术及其语言特性在模拟研究中的代码工程化与落地应用；熟悉Python基础语法；掌握强大数学工具软件Mathematica及其与C++等语言的自动化脚本整合；应用Mathematica进行数值运算；掌握CUDA C++ 大规模高性能并行编程以及基于OpenGL的可视化图形应用的底层开发；熟悉Linux操作系统。
 - **系统性框架整合能力：**
   
 独立完成对课题组多个研究方向相关的程序框架整合，可在数日内实现对新研究方向的快速定制化开发。
@@ -103,8 +103,6 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8
 <div class='paper-box-text' markdown="1">
 
 Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system
-
-[gif](https://github.com/yanran-scu/YanRan-SCU/blob/main/images/000.gif?raw=true)
 
 T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 </div>
