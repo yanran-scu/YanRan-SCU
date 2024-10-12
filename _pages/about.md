@@ -102,7 +102,7 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system](https://pubs.aip.org/aip/jcp/article/156/20/204901/2841498/Biased-angle-effect-on-diffusion-dynamics-and)
+[Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system](https://pubs.aip.org/aip/jcp/article/156/20/204901/2841498/Biased-angle-effect-on-diffusion-dynamics-and)  [.mp4](https://pan.baidu.com/s/1VRZYwTda2oAwh1D327uARw?pwd=qiqo)
 
 T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 </div>
