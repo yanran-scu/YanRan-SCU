@@ -74,7 +74,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Attractive crowding effect on passive and active polymer looping kinetics.
+[Attractive crowding effect on passive and active polymer looping kinetics](https://pubs.aip.org/aip/jcp/article/160/13/134902/3280571/Attractive-crowding-effect-on-passive-and-active)
 
 ***R. Yan***, C. N. Zhao, and N. R. Zhao*, J. Chem. Phys. (Sci) 160, 134902 (2024).
 
