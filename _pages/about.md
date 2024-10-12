@@ -84,7 +84,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Conformation and dynamics of an active filament in crowded media
+ [Conformation and dynamics of an active filament in crowded media](https://pubs.aip.org/aip/jcp/article/158/11/114905/2881794/Conformation-and-dynamics-of-an-active-filament-in)
  
 ***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, J. Chem. Phys. (Sci)  158, 114905 (2023).
 </div>
@@ -93,7 +93,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Translocation dynamics of an active filament through a long-length scale channel
+[Translocation dynamics of an active filament through a long-length scale channel](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c04250)
 
 F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8603 (2023).
 </div>
@@ -102,7 +102,7 @@ F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system
+[Biased-angle effect on diffusion dynamics and phase separation in anisotropic active particle system](https://pubs.aip.org/aip/jcp/article/156/20/204901/2841498/Biased-angle-effect-on-diffusion-dynamics-and)
 
 T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 </div>
@@ -112,7 +112,7 @@ T. Lei, ***R. Yan*** and N. R. Zhao*,  J. Chem. Phys. (Sci)  156, 204901 (2022).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Passive and active tracer dynamics in polymer solutions with isotropic-to-nematic phase transition
+[Passive and active tracer dynamics in polymer solutions with isotropic-to-nematic phase transition](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp00323f)
 
 Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. (Sci)  24, 7415 (2022).
 </div>
@@ -121,7 +121,7 @@ Y. Chen, ***R. Yan*** and N. R. Zhao*,  Phys. Chem. Chem. Phys. (Sci)  24, 7415 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Dynamics and glass transition temperature of polystyrene films supported on hydroxyl terminated substrates
+[Dynamics and glass transition temperature of polystyrene films supported on hydroxyl terminated substrates](https://pubs.aip.org/aip/adv/article/10/4/045322/1037727/Dynamics-and-glass-transition-temperature-of)
  
 B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances (Sci)  10, 045322 (2020).
 </div>
@@ -130,7 +130,7 @@ B. J. Zhang, ***R. Yan*** and N. R. Zhao*,AIP Advances (Sci)  10, 045322 (2020).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/6.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unusual crowding-induced chain looping kinetics in hard-sphere fluids: a contrastive study with polymer solutions
+[Unusual crowding-induced chain looping kinetics in hard-sphere fluids: a contrastive study with polymer solutions](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm00400a)
 
 Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter (Sci)  15, 4976 (2019).
 </div>
@@ -139,7 +139,7 @@ Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter (Sci)  15, 4976 (2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/10.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Forced and spontaneous translocation dynamics of a semiflexible active polymer in two dimensions
+[Forced and spontaneous translocation dynamics of a semiflexible active polymer in two dimensions](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d3sm01409f)
 
 F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (2024).
 </div>
@@ -149,7 +149,7 @@ F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Collective behavior of chiral active particles with anisotropic interactions in a confined space
+[Collective behavior of chiral active particles with anisotropic interactions in a confined space](https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01402e)
 
 T. Lei, C. N. Zhao, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  19, 1312 (2023).
 </div>
