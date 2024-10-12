@@ -86,7 +86,7 @@ redirect_from:
 
  [Conformation and dynamics of an active filament in crowded media](https://pubs.aip.org/aip/jcp/article/158/11/114905/2881794/Conformation-and-dynamics-of-an-active-filament-in)
  
-***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, J. Chem. Phys. (Sci)  158, 114905 (2023).
+***R. Yan***, F. Tan, J. L. Wang and N. R. Zhao*, J. Chem. Phys. (Sci)  158, 114905 (2023). [\[Video](https://pan.baidu.com/s/1dUxqL0oo0aKFE8zhPVz4Yg?pwd=5u26)]
 </div>
 </div>
 
