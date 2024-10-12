@@ -95,7 +95,7 @@ redirect_from:
 
 [Translocation dynamics of an active filament through a long-length scale channel](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c04250)
 
-F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8603 (2023).
+F. Tan, ***R. Yan***, C. N. Zhao and N. R. Zhao*, J. Phys. Chem. B (Sci)  127, 8603 (2023). [\[Video](https://pan.baidu.com/s/1wBj44RWz5YbMrxDMVdxZKQ?pwd=f7cv)]
 </div>
 </div>
 
@@ -141,7 +141,7 @@ Y. K. Bian, ***R. Yan***, P. Li and N. R. Zhao*,  Soft Matter (Sci)  15, 4976 (2
 
 [Forced and spontaneous translocation dynamics of a semiflexible active polymer in two dimensions](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d3sm01409f)
 
-F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (2024).
+F. Tan, J. L. Wang, ***R. Yan*** and N. R. Zhao*,  Soft Matter (Sci)  20, 1120 (2024). [\[Video](https://pan.baidu.com/s/1tINi6Vzpj5mZf2Bb1_cFig?pwd=x79z)]
 </div>
 </div>
 
